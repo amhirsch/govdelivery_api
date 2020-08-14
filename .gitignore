@@ -1,0 +1,5 @@
+.vscode/
+
+__pycache__/
+
+request_cache/*.html
